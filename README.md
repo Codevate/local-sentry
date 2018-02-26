@@ -1,4 +1,4 @@
-### Local Sentry
+# Local Sentry
 
 Bootstrap a local Sentry server to test project integrations and make sure your errors are getting logged correctly. This is **not intended for production**, instead you should use the official [on-premise setup](https://github.com/getsentry/onpremise).
 
